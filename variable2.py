@@ -26,4 +26,9 @@ print(len(s))
 
 print(s[len(s) - 1])
 
+
+x = 'hello world, how are you?\nthis is me here'
+print(x)
+print(x[29])
+
 # Install Git client in your laptop
